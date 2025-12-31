@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Focus Blocker",
+  "version": "1.0",
+  "description": "A beginner extension to block distracting sites.",
+  "permissions": ["storage", "tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

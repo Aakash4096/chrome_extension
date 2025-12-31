@@ -1,0 +1,50 @@
+:root {
+  --corners: 24px 0;
+  --corners-sm: 999px;
+  --base-font-size: 1rem;
+}
+body {
+  width: 300px;
+  padding: 15px;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: bisque;
+}
+h2 {
+  color: #0f0929;
+  font-size: calc(var(--base-font-size) * 1.25);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 10px 0px 5px 0px;
+  padding: 10px 0px 5px 0px;
+}
+h3 {
+  font-size: calc(var(--base-font-size) * 0.75);
+  text-transform: uppercase;
+  margin: 10px 0px 5px 0px;
+  padding: 10px 0px 5px 0px;
+}
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: var(--corners-sm);
+}
+button#toggleBtn {
+  font-weight: bold;
+  width: 100%;
+  margin-bottom: 10px;
+}
+input {
+  padding: 8px;
+  width: 70%;
+  margin-top: 10px;
+}
+.site-list {
+  text-align: left;
+  margin-top: 15px;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
