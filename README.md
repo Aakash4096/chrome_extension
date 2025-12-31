@@ -8,8 +8,14 @@
 ## steps for installation
 
 1. Clone the above repository using the url
+
+
+
                 OR
-   git clone https://github.com/Aakash4096/chrome_extension.git   <---- paste this link
+
+
+
+   git clone https://github.com/Aakash4096/chrome_extension.git   <---- paste this in terminal 
 
 
 2. Now , open browser and follow the given steps to setup the chrome extension.
@@ -33,3 +39,4 @@
 
 
 ![extension-access](https://github.com/Aakash4096/chrome_extension/blob/main/assets/extension-access.png)
+
