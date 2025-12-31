@@ -7,11 +7,11 @@
 
 ## steps for installation
 
-1. Clone the above repository using the url
+1. Clone the above repository using the url or
 
 
 
-                OR
+                git clone https://github.com/Aakash4096/chrome_extension.git 
 
 
 
@@ -39,4 +39,5 @@
 
 
 ![extension-access](https://github.com/Aakash4096/chrome_extension/blob/main/assets/extension-access.png)
+
 
