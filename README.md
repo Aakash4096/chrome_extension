@@ -11,7 +11,7 @@
 
 
 
-                git clone https://github.com/Aakash4096/chrome_extension.git 
+               git clone https://github.com/Aakash4096/chrome_extension.git
 
 
 
@@ -39,5 +39,6 @@
 
 
 ![extension-access](https://github.com/Aakash4096/chrome_extension/blob/main/assets/extension-access.png)
+
 
 
